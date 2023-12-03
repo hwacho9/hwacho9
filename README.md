@@ -14,7 +14,6 @@
 </div><br>
 
 
-<br>
 
 <!--
 **hwacho9/hwacho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +29,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwacho9)](https://github.com/hwacho9/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwacho9&layout=compact)
- <br>
+
