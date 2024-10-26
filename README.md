@@ -34,7 +34,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Tool 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=dart&logoColor=white)
 
 ## Studying
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
