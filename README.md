@@ -41,6 +41,8 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
+## App release
+https://apps.apple.com/jp/app/campustime/id6502876039 
 
 <!--
 **hwacho9/hwacho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
