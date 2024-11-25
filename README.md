@@ -13,6 +13,12 @@
     </a>
 </div><br>
 
+## App release
+### campustime
+![appstore](https://github.com/user-attachments/assets/3c0b411e-79a2-4790-b0fd-a9ca18698bf2)
+
+https://apps.apple.com/jp/app/campustime/id6502876039 
+
 ## Languages 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,8 +47,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Next.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
-## App release
-https://apps.apple.com/jp/app/campustime/id6502876039 
+
 
 <!--
 **hwacho9/hwacho9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
