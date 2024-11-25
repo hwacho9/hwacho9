@@ -15,7 +15,7 @@
 
 ## App release
 ### campustime
-![appstore](https://github.com/user-attachments/assets/3c0b411e-79a2-4790-b0fd-a9ca18698bf2)
+![172](https://github.com/user-attachments/assets/1ffbc253-7456-4f69-8e20-67996c904f3e)
 
 https://apps.apple.com/jp/app/campustime/id6502876039 
 
