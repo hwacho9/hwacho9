@@ -13,11 +13,14 @@
     </a>
 </div><br>
 
-## App release
-### campustime
-![172](https://github.com/user-attachments/assets/1ffbc253-7456-4f69-8e20-67996c904f3e)
+## App Release
 
-https://apps.apple.com/jp/app/campustime/id6502876039 
+| Campustime | RecordRunner |
+|------------|--------------|
+| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) |
+| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) |
+
+
 
 ## Languages 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
