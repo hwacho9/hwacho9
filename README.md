@@ -15,10 +15,12 @@
 
 ## App Release
 
-| Campustime | RecordRunner |
-|------------|--------------|
-| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) |
-| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) |
+| Campustime | RecordRunner | MOTTA |
+|------------|--------------|-------|
+| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) | ![167](https://github.com/user-attachments/assets/0f84d82e-9532-4328-b351-b15d8e8ee8ca) |
+| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) | [AppStore](#) |
+
+
 
 
 
