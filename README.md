@@ -13,17 +13,6 @@
     </a>
 </div><br>
 
-## App Release
-
-| Campustime | RecordRunner | MOTTA |
-|------------|--------------|-------|
-| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) | ![167](https://github.com/user-attachments/assets/0f84d82e-9532-4328-b351-b15d8e8ee8ca) |
-| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) | [AppStore](https://apps.apple.com/jp/app/motta/id6740005328) |
-
-
-
-
-
 ## Languages 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,6 +44,15 @@
 ![Next.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## App Release
+
+| Campustime | RecordRunner | MOTTA |
+|------------|--------------|-------|
+| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) | ![167](https://github.com/user-attachments/assets/0f84d82e-9532-4328-b351-b15d8e8ee8ca) |
+| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) | [AppStore](https://apps.apple.com/jp/app/motta/id6740005328) |
+
+
 
 
 
