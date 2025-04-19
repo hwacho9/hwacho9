@@ -11,7 +11,7 @@
     <a href="https://www.instagram.com/sungh_c99">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-</div><br>
+</div>
 
 ## Languages 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
