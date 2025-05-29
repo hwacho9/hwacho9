@@ -47,11 +47,10 @@
 
 ## App Release
 
-| Campustime | RecordRunner | MOTTA |
+| Campustime | GymLinker | MOTTA |
 |------------|--------------|-------|
-| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![recordRunner](https://github.com/user-attachments/assets/6047996a-3531-47c8-8224-4835bf07f298) | ![167](https://github.com/user-attachments/assets/0f84d82e-9532-4328-b351-b15d8e8ee8ca) |
-| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](#) | [AppStore](https://apps.apple.com/jp/app/motta/id6740005328) |
-
+| ![campustime](https://github.com/user-attachments/assets/3806365e-0bd4-4c80-9df2-cd02fc507fb5) | ![GymLinker](https://github.com/user-attachments/assets/7732bb52-7d6f-4da1-a3e5-344b171e6a41) | ![167](https://github.com/user-attachments/assets/0f84d82e-9532-4328-b351-b15d8e8ee8ca) |
+| [AppStore](https://apps.apple.com/jp/app/campustime/id6502876039) | [AppStore](https://apps.apple.com/jp/app/gymlinker-ジムリンカー/id6739889029) | [AppStore](https://apps.apple.com/jp/app/motta/id6740005328) |
 
 
 
